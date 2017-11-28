@@ -1,0 +1,4 @@
+{
+    "eslint.enable": true,
+    "mocha.files.glob": "services/news/tests/*.js"
+}
